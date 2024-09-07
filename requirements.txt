@@ -28,5 +28,6 @@ tqdm
 filterpy
 # scikit-image==0.19.3
 scikit-image
-lap==0.4.0
+# lap==0.4.0
 # lap
+lapx
