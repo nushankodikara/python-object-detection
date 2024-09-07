@@ -1,33 +1,16 @@
-# cvzone==1.5.6
 cvzone
-# ultralytics==8.0.26
 ultralytics
-# hydra-core>=1.2.0
 hydra-core
-# matplotlib>=3.2.2
 matplotlib
-# numpy>=1.18.5
 numpy
-# opencv-python==4.5.4.60
 opencv-python
-# Pillow>=7.1.2
 Pillow
-# PyYAML>=5.3.1
 PyYAML
-# requests>=2.23.0
 requests
-# scipy>=1.4.1
 scipy
-# torch>=1.7.0
 torch
-# torchvision>=0.8.1
 torchvision
-# tqdm>=4.64.0
 tqdm
-# filterpy==1.4.5
 filterpy
-# scikit-image==0.19.3
 scikit-image
-# lap==0.4.0
-# lap
 lapx
